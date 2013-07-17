@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.paranoid.ParanoidWallpapers;
+package com.AR.ARwallpaper;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
